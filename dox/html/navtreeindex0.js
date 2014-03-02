@@ -1,0 +1,23 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_dzialanie.html":[0,0,1],
+"class_dzialanie.html#a2485f447415a34a4edfe6144df152982":[0,0,1,2],
+"class_dzialanie.html#a91781228f7e130909dbfcddcb437e5a7":[0,0,1,3],
+"class_dzialanie.html#a9900d78af6c5d164e69170a67677e033":[0,0,1,4],
+"class_dzialanie.html#ad1e9fefde45a9f69a06a4e69a0abebfc":[0,0,1,0],
+"class_dzialanie.html#ae4042a186bd1937b2ea084087b27ad35":[0,0,1,1],
+"classes.html":[0,1],
+"dane_8hh_source.html":[1,0,0,0],
+"dir_bfccd401955b95cf8c75461437045ac0.html":[1,0,0],
+"dzialanie_8hh_source.html":[1,0,0,1],
+"files.html":[1,0],
+"functions.html":[0,2,0],
+"functions_func.html":[0,2,1],
+"index.html":[],
+"pages.html":[],
+"struct_dane.html":[0,0,0],
+"struct_dane.html#a017134781e54b3204693f2b5d163e160":[0,0,0,1],
+"struct_dane.html#a6556f1681c6cd90355fe694d668a678b":[0,0,0,0],
+"struct_dane.html#ab05a2fde01cf8c0adde0d088f30563d8":[0,0,0,2]
+};

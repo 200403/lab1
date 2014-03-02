@@ -1,0 +1,29 @@
+\begin{theindex}
+
+  \item {Dane}, \hyperpage{3}
+    \subitem {wczytaj\discretionary {-}{}{}Dane}, \hyperpage{3}
+  \item {Dzialanie}, \hyperpage{4}
+    \subitem {sprawdz}, \hyperpage{4}
+    \subitem {wczytaj\discretionary {-}{}{}Dane}, \hyperpage{4}
+    \subitem {wlacz\discretionary {-}{}{}Stoper}, \hyperpage{5}
+    \subitem {wykonaj\discretionary {-}{}{}Algorytm}, \hyperpage{5}
+    \subitem {wylacz\discretionary {-}{}{}Stoper}, \hyperpage{5}
+
+  \indexspace
+
+  \item {sprawdz}
+    \subitem {Dzialanie}, \hyperpage{4}
+
+  \indexspace
+
+  \item {wczytaj\discretionary {-}{}{}Dane}
+    \subitem {Dane}, \hyperpage{3}
+    \subitem {Dzialanie}, \hyperpage{4}
+  \item {wlacz\discretionary {-}{}{}Stoper}
+    \subitem {Dzialanie}, \hyperpage{5}
+  \item {wykonaj\discretionary {-}{}{}Algorytm}
+    \subitem {Dzialanie}, \hyperpage{5}
+  \item {wylacz\discretionary {-}{}{}Stoper}
+    \subitem {Dzialanie}, \hyperpage{5}
+
+\end{theindex}

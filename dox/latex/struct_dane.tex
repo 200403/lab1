@@ -1,0 +1,59 @@
+\hypertarget{struct_dane}{\section{Dane Struct Reference}
+\label{struct_dane}\index{Dane@{Dane}}
+}
+
+
+Struktura \hyperlink{struct_dane}{Dane}.  
+
+
+
+
+{\ttfamily \#include $<$dane.\-hh$>$}
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{struct_dane_a6556f1681c6cd90355fe694d668a678b}{wczytaj\-Dane} (char $\ast$nazwa\-Pliku)
+\begin{DoxyCompactList}\small\item\em metoda wczytuje dane do tablicy z pliku \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{struct_dane_a017134781e54b3204693f2b5d163e160}{vector$<$ int $>$ {\bfseries dane}}\label{struct_dane_a017134781e54b3204693f2b5d163e160}
+
+\item 
+\hypertarget{struct_dane_ab05a2fde01cf8c0adde0d088f30563d8}{unsigned int {\bfseries rozmiar}}\label{struct_dane_ab05a2fde01cf8c0adde0d088f30563d8}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Struktura \hyperlink{struct_dane}{Dane}. 
+
+Struktura posiada 2 pola\-: -\/tablice (vector), -\/rozmiar tablicy. 
+
+\subsection{Member Function Documentation}
+\hypertarget{struct_dane_a6556f1681c6cd90355fe694d668a678b}{\index{Dane@{Dane}!wczytaj\-Dane@{wczytaj\-Dane}}
+\index{wczytaj\-Dane@{wczytaj\-Dane}!Dane@{Dane}}
+\subsubsection[{wczytaj\-Dane}]{\setlength{\rightskip}{0pt plus 5cm}void Dane\-::wczytaj\-Dane (
+\begin{DoxyParamCaption}
+\item[{char $\ast$}]{nazwa\-Pliku}
+\end{DoxyParamCaption}
+)}}\label{struct_dane_a6556f1681c6cd90355fe694d668a678b}
+
+
+metoda wczytuje dane do tablicy z pliku 
+
+Format danych w pliku jest nastepujacy\-: pierwszy wiersz -\/ ilosc elementow, a nastepnie w kolumnie kolejne wartosci tablicy. 
+\begin{DoxyParams}{Parameters}
+{\em nazwa\-Pliku} & -\/ nazwa pliku do otwarcia \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}
+
+
+The documentation for this struct was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+inc/dane.\-hh\item 
+scr/dane.\-cpp\end{DoxyCompactItemize}
